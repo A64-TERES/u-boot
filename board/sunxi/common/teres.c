@@ -11,6 +11,7 @@ DECLARE_GLOBAL_DATA_PTR;
 
 int teres_set_axp_voltages(void)
 {
+/*
   user_gpio_set_t gpio_info;
         int ret;
         __s32 p_handler;
@@ -32,7 +33,7 @@ int teres_set_axp_voltages(void)
 
         printf("LED GPIO failed %d\n",ret);
         }
-
+*/
 
 	return 0;
 }
